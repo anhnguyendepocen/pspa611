@@ -109,13 +109,13 @@
         </nav>
         <nav class="bottom-group">
             
-            <a href="https://www.cgoodman.com/pspa611/syllabus/">Syllabus</a>
+            <a href="/pspa611/syllabus/">Syllabus</a>
             
-            <a href="https://www.cgoodman.com/pspa611/schedule/">Schedule</a>
+            <a href="/pspa611/schedule/">Schedule</a>
             
-            <a href="https://www.cgoodman.com/pspa611/assignments/">Assignments</a>
+            <a href="/pspa611/assignments/">Assignments</a>
             
-            <a href="https://www.cgoodman.com/pspa611/reference/">Reference</a>
+            <a href="/pspa611/reference/">Reference</a>
             
         </nav>
     </header>
@@ -208,9 +208,9 @@ code span.wa { color: #bf0303; } /* Warning */
 </div>
 
 <h2 id="slides">Slides</h2>
-<p><a href="https://www.cgoodman.com/pspa611/slides/PMAP-8521_2019-09-30.pdf">Download the slides from today’s class</a>.</p>
+<p><a href="/slides/PMAP-8521_2019-09-30.pdf">Download the slides from today’s class</a>.</p>
 <figure>
-<a href="https://www.cgoodman.com/pspa611/slides/PMAP-8521_2019-09-30.pdf"><img src="https://www.cgoodman.com/pspa611/images/slides/slides_2019-09-30.png" alt="First slide" /></a>
+<a href="/slides/PMAP-8521_2019-09-30.pdf"><img src="/images/slides/slides_2019-09-30.png" alt="First slide" /></a>
 </figure>
 <h2 id="making-adjustments-without-using-controls-in-regression">Making adjustments without using controls in regression</h2>
 <p>In 1986 Robert LaLonde published a report that studied the effect of a job training program on earnings in 1978. His study used an experiment to assign people to a training program or not, and he also collected data on people who voluntarily joined, which includes their earnings in 1975, prior to the training program. The <strong><code>wooldridge</code></strong> package in R contains this data.</p>
@@ -261,7 +261,7 @@ code span.wa { color: #bf0303; } /* Warning */
 <span id="cb8-7"><a href="#cb8-7"></a>                                  <span class="st">&quot;need_tr&quot;</span> =<span class="st"> &quot;Needs training&quot;</span>, <span class="st">&quot;U&quot;</span> =<span class="st"> &quot;Other things&quot;</span>))</span>
 <span id="cb8-8"><a href="#cb8-8"></a><span class="kw">ggdag</span>(training_dag, <span class="dt">use_labels =</span> <span class="st">&quot;label&quot;</span>, <span class="dt">text =</span> <span class="ot">FALSE</span>, <span class="dt">seed =</span> <span class="dv">1234</span>) <span class="op">+</span></span>
 <span id="cb8-9"><a href="#cb8-9"></a><span class="st">  </span><span class="kw">theme_dag</span>()</span></code></pre></div>
-<p><img src="https://www.cgoodman.com/pspa611/class/05-class_files/figure-html/training-dag-1.png" width="672" /></p>
+<p><img src="/class/05-class_files/figure-html/training-dag-1.png" width="672" /></p>
 <p>We don’t have a variable in our dataset named “Needs training,” but we can infer the need for training from pre-training income (like income in 1975 before the training program was offered).</p>
 <p>Let’s look at the 1975 incomes of people in the experiment and the general population:</p>
 <figure class="fullwidth">
@@ -286,7 +286,7 @@ code span.wa { color: #bf0303; } /* Warning */
 <span id="cb9-19"><a href="#cb9-19"></a></span>
 <span id="cb9-20"><a href="#cb9-20"></a>dist_random <span class="op">+</span><span class="st"> </span>dist_population <span class="op">+</span></span>
 <span id="cb9-21"><a href="#cb9-21"></a><span class="st">  </span><span class="kw">plot_layout</span>(<span class="dt">ncol =</span> <span class="dv">2</span>)</span></code></pre></div>
-<p><img src="https://www.cgoodman.com/pspa611/class/05-class_files/figure-html/income-dist-1.png" width="768" /></p>
+<p><img src="/class/05-class_files/figure-html/income-dist-1.png" width="768" /></p>
 </figure>
 <p>Those who participated in the experiment are much poorer on average than the total population, so we can infer that people in the regular world who have low incomes would need the job training.</p>
 <p>We can adjust for “needs training” by limiting our sample of the full population to only those who have incomes below some threshold. There’s no official rule for what this threshold might be. In class, we looked at the different quartiles of income in the experiment group and found that the 75th percentile (3rd quartile) income was $1,221, which means that 75% of the people in the experiment had incomes of $1,221 or less.</p>

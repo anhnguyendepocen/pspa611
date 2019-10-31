@@ -109,13 +109,13 @@
         </nav>
         <nav class="bottom-group">
             
-            <a href="https://www.cgoodman.com/pspa611/syllabus/">Syllabus</a>
+            <a href="/pspa611/syllabus/">Syllabus</a>
             
-            <a href="https://www.cgoodman.com/pspa611/schedule/">Schedule</a>
+            <a href="/pspa611/schedule/">Schedule</a>
             
-            <a href="https://www.cgoodman.com/pspa611/assignments/">Assignments</a>
+            <a href="/pspa611/assignments/">Assignments</a>
             
-            <a href="https://www.cgoodman.com/pspa611/reference/">Reference</a>
+            <a href="/pspa611/reference/">Reference</a>
             
         </nav>
     </header>
@@ -208,9 +208,9 @@ code span.wa { color: #bf0303; } /* Warning */
 </div>
 
 <h2 id="slides">Slides</h2>
-<p><a href="https://www.cgoodman.com/pspa611/slides/PMAP-8521_2019-10-07.pdf">Download the slides from today’s class</a>.</p>
+<p><a href="/slides/PMAP-8521_2019-10-07.pdf">Download the slides from today’s class</a>.</p>
 <figure>
-<a href="https://www.cgoodman.com/pspa611/slides/PMAP-8521_2019-10-07.pdf"><img src="https://www.cgoodman.com/pspa611/images/slides/slides_2019-10-07.png" alt="First slide" /></a>
+<a href="/slides/PMAP-8521_2019-10-07.pdf"><img src="/images/slides/slides_2019-10-07.png" alt="First slide" /></a>
 </figure>
 <h2 id="generating-synthetic-data">Generating synthetic data</h2>
 <p>In class, I briefly demonstrated how to use the <a href="https://github.com/trinker/wakefield"><strong>wakefield</strong></a> package to generate synthetic data for your final project.<span><label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">The package is named after <a href="https://en.wikipedia.org/wiki/Andrew_Wakefield#Fraud_and_conflict_of_interest_allegations">Andrew Wakefield</a>, a British researcher who used fake data to create a false link between the MMR vaccine and autism.<br />
@@ -290,7 +290,7 @@ code span.wa { color: #bf0303; } /* Warning */
 <span id="cb5-23"><a href="#cb5-23"></a><span class="co"># For fun, we can check the difference in income for people in the treatment and control groups</span></span>
 <span id="cb5-24"><a href="#cb5-24"></a><span class="kw">ggplot</span>(big_data_set, <span class="kw">aes</span>(<span class="dt">x =</span> income, <span class="dt">fill =</span> treatment)) <span class="op">+</span><span class="st"> </span></span>
 <span id="cb5-25"><a href="#cb5-25"></a><span class="st">  </span><span class="kw">geom_density</span>()</span></code></pre></div>
-<p><img src="https://www.cgoodman.com/pspa611/class/06-class_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p><img src="/class/06-class_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 <p>Whoa! Look at that! The imaginary program boosted incomes substantially! :)</p>
 <p>In problem set 5 you worked with fake data about a hypothetical math camp. Here’s the code I used to generate that data. The only odd thing here is the <code>rtruncnorm()</code> function, which generates data from a truncated normal distribution. This makes it so you can put limits on numbers—if you want a random distribution of GPAs centered at 3.5, you don’t want to accidentally create GPAs of 4.3 or whatever. The <code>a</code> and <code>b</code> arguments let you set a minimum and a maximum number.</p>
 <div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">library</span>(tidyverse)</span>
