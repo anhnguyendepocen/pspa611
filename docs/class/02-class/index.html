@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang=""
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Christopher Goodman">
+    <meta name="description" content="Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management.">
+
+    <meta name="twitter:card" value="summary_large_image">
+    <meta name="twitter:site" content="@andrewheiss">
+    <meta name="twitter:title" content="Regression and inference | PSPA 611: Public Revenue Analysis &amp; Financial Management">
+    <meta name="twitter:creator" content="@andrewheiss">
+    <meta name="twitter:image" content="https://pspa611.cgoodman.com/images/eval_meta.png">
+    <meta name="twitter:description" content="Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management." />
+
+    <meta property="og:site_name" content="PSPA 611: Public Revenue Analysis &amp; Financial Management"/>
+    <meta property="og:title" content="Regression and inference | PSPA 611: Public Revenue Analysis &amp; Financial Management">
+    <meta property="og:type" content="article" />
+    <meta property="article:author" content="https://www.facebook.com/andrewheiss" />
+    <meta property="og:url" content="https://pspa611.cgoodman.com/" />
+    <meta property="og:image" content="https://pspa611.cgoodman.com/images/eval_meta.png">
+    <meta property="og:description" content="Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management." />
+
+    <meta name="generator" content="Hugo 0.56.0" />   
+
+    <title>Regression and inference | PSPA 611: Public Revenue Analysis &amp; Financial Management</title>
+    <link rel="canonical" href="https://pspa611.cgoodman.com/class/02-class/">
+    <link href="/theme/css/tufte.css" rel="stylesheet">
+    <link href="/theme/css/latex.css" rel="stylesheet">
+    <link href="/theme/css/custom.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+        .wrap a, .wrap a:visited {
+            color: #D46600;
+        }
+
+        .wrap a:hover {
+            color: #F6E03F;
+        }
+
+        .wrap p > a {
+            color: #D46600;
+        }
+
+        article .sidenote-number:after, article .sidenote:before {
+            color: #D46600;
+        }
+
+        article .sidenote:before {
+            color: #D46600;
+        }
+
+        @media (max-width: 760px) {
+            label.margin-toggle:not(.sidenote-number) {
+                color: #D46600;
+            }
+        }
+
+        .contrast a, .contrast a:visited {
+            color: #D46600; 
+        }
+
+        header > nav a {
+            color: #D46600;
+        }
+
+        .credits a {
+            color: #D46600;
+        }
+
+        .wrap .tag {
+            background: #D46600;
+        }
+    </style>
+
+    <link rel="shortcut icon" href="https://pspa611.cgoodman.com/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://pspa611.cgoodman.com/images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://pspa611.cgoodman.com/images/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://pspa611.cgoodman.com/images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://pspa611.cgoodman.com/images/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://pspa611.cgoodman.com/images/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://pspa611.cgoodman.com/images/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="https://pspa611.cgoodman.com/images/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://pspa611.cgoodman.com/images/favicon-16x16.png" sizes="16x16" />
+    <meta name="application-name" content="PSPA 611: Public Revenue Analysis &amp; Financial Management"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="https://pspa611.cgoodman.com/images/mstile-144x144.png" />
+
+    
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,600|Archivo:400" rel="stylesheet"> 
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+
+</head>
+
+<body>
+<div class="wrap">
+    <header>
+        <nav class="group logo-wrap">
+            <h1 class="websitetitle"><a href="https://pspa611.cgoodman.com/">PSPA 611: Public Revenue Analysis &amp; Financial Management</a></h1>
+        </nav>
+        <nav class="bottom-group">
+            
+            <a href="/syllabus/">Syllabus</a>
+            
+            <a href="/schedule/">Schedule</a>
+            
+            <a href="/assignments/">Assignments</a>
+            
+            <a href="/reference/">Reference</a>
+            
+        </nav>
+    </header>
+
+
+    <article class="group">
+    <h1>Regression and inference</h1>
+    
+    <p class="page-date">Materials for class on Monday, September 9, 2019</p>
+    
+    
+<!-- BLOGDOWN-HEAD -->
+<style type="text/css">
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    background-color: #ffffff;
+    color: #a0a0a0;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #a0a0a0;  padding-left: 4px; }
+div.sourceCode
+  { color: #1f1c1b; background-color: #ffffff; }
+@media screen {
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span. { color: #1f1c1b; } /* Normal */
+code span.al { color: #bf0303; background-color: #f7e6e6; font-weight: bold; } /* Alert */
+code span.an { color: #ca60ca; } /* Annotation */
+code span.at { color: #0057ae; } /* Attribute */
+code span.bn { color: #b08000; } /* BaseN */
+code span.bu { color: #644a9b; font-weight: bold; } /* BuiltIn */
+code span.cf { color: #1f1c1b; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #924c9d; } /* Char */
+code span.cn { color: #aa5500; } /* Constant */
+code span.co { color: #898887; } /* Comment */
+code span.cv { color: #0095ff; } /* CommentVar */
+code span.do { color: #607880; } /* Documentation */
+code span.dt { color: #0057ae; } /* DataType */
+code span.dv { color: #b08000; } /* DecVal */
+code span.er { color: #bf0303; text-decoration: underline; } /* Error */
+code span.ex { color: #0095ff; font-weight: bold; } /* Extension */
+code span.fl { color: #b08000; } /* Float */
+code span.fu { color: #644a9b; } /* Function */
+code span.im { color: #ff5500; } /* Import */
+code span.in { color: #b08000; } /* Information */
+code span.kw { color: #1f1c1b; font-weight: bold; } /* Keyword */
+code span.op { color: #1f1c1b; } /* Operator */
+code span.ot { color: #006e28; } /* Other */
+code span.pp { color: #006e28; } /* Preprocessor */
+code span.re { color: #0057ae; background-color: #e0e9f8; } /* RegionMarker */
+code span.sc { color: #3daee9; } /* SpecialChar */
+code span.ss { color: #ff5500; } /* SpecialString */
+code span.st { color: #bf0303; } /* String */
+code span.va { color: #0057ae; } /* Variable */
+code span.vs { color: #bf0303; } /* VerbatimString */
+code span.wa { color: #bf0303; } /* Warning */
+</style>
+<!-- /BLOGDOWN-HEAD -->
+
+<h2>Contents</h2>
+<div id="TOC">
+<ul>
+<li><a href="#slides">Slides</a></li>
+<li><a href="#regression-with-r">Regression with R</a></li>
+<li><a href="#different-styles-of-formulas">Different styles of formulas</a><ul>
+<li><a href="#r-code">R code</a></li>
+<li><a href="#mastering-metrics-and-econometrics-in-general"><em>Mastering ’Metrics</em> and econometrics in general</a></li>
+<li><a href="#all-betas">All <span class="math inline">\(\beta\)</span>s</a></li>
+</ul></li>
+<li><a href="#use-real-names">Use real names</a></li>
+<li><a href="#clearest-and-muddiest-things">Clearest and muddiest things</a></li>
+</ul>
+</div>
+
+<h2 id="slides">Slides</h2>
+<p><a href="/slides/PMAP-8521_2019-09-09.pdf">Download the slides from today’s class</a>.</p>
+<figure>
+<a href="/slides/PMAP-8521_2019-09-09.pdf"><img src="/images/slides/slides_2019-09-09.png" alt="First slide" /></a>
+</figure>
+<h2 id="regression-with-r">Regression with R</h2>
+<p><a href="https://rstudio.cloud/spaces/26160/project/501239">Open the RStudio.cloud project for today</a>.</p>
+<p>You can also download the project to your computer and run the R Markdown files locally:</p>
+<ul>
+<li><a href="/files/simple-regressions.zip"><i class="fas fa-file-archive"></i> Simple regressions</a></li>
+</ul>
+<h2 id="different-styles-of-formulas">Different styles of formulas</h2>
+<p>There’s unfortunately no standard notation for regression model math. Since everyone does it differently, here’s a brief guide to translating between different forms. I’ll write two different models in a bunch of different ways. The models come from chapter 2 of <em>Mastering ’Metrics</em> where they estimated the effect of private university on earnings:</p>
+<ul>
+<li>Simple: Earnings ~ Public/private + Group A/Not group A</li>
+<li>Complex: Earnings ~ Public/private + Group A/Not group A + SAT score + Parental income</li>
+</ul>
+<h3 id="r-code">R code</h3>
+<p>When specifying a model with R, you don’t need to worry about Greek letters (or any coefficient letters really), since the point of running the model is to find what the actual values of those letters would be.
+The code for these two models would look something like this:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a>model_simple &lt;-<span class="st"> </span><span class="kw">lm</span>(earnings <span class="op">~</span><span class="st"> </span>private <span class="op">+</span><span class="st"> </span>group_a, <span class="dt">data =</span> schools)</span>
+<span id="cb1-2"><a href="#cb1-2"></a>model_complex &lt;-<span class="st"> </span><span class="kw">lm</span>(<span class="kw">log</span>(earnings) <span class="op">~</span><span class="st"> </span>private <span class="op">+</span><span class="st"> </span>group_a <span class="op">+</span><span class="st"> </span>sat_score <span class="op">+</span><span class="st"> </span>parental_income,</span>
+<span id="cb1-3"><a href="#cb1-3"></a>                    <span class="dt">data =</span> schools)</span></code></pre></div>
+<h3 id="mastering-metrics-and-econometrics-in-general"><em>Mastering ’Metrics</em> and econometrics in general</h3>
+<p>In <em>Mastering ’Metrics</em>, Angrist and Pischke like to use lots of different Greek letters to help distinguish between the different parts of a model. For instance, Equation 2.1 on page 57 is</p>
+<p><span class="math display">\[
+Y_i = \alpha + \beta P_i + \gamma A_i + e_i
+\]</span></p>
+<p>Here’s what all these things mean:</p>
+<ul>
+<li><span class="math inline">\(\alpha\)</span> (“alpha”) is the intercept</li>
+<li><span class="math inline">\(\beta\)</span> (“beta”) is the coefficient just for the <em>treatment</em>, or the causal effect we care about (i.e. the effect of private school)</li>
+<li><span class="math inline">\(\gamma\)</span> (“gamma”) is the coefficient for the <em>identifying variable</em>, or the thing that simulates treatment and control groups (i.e. being in group A or not).</li>
+<li><span class="math inline">\(e\)</span> (“epsilon”) is the error term, or the residuals (i.e. things that aren’t captured by the model)</li>
+<li><span class="math inline">\(Y\)</span> represents earnings, or the outcome variable (or dependent variable)</li>
+<li><span class="math inline">\(P\)</span> represents private schools</li>
+<li><span class="math inline">\(A\)</span> represents being in Group A</li>
+</ul>
+<p>Each of these terms has a subscripted <em>i</em> to show that the model is being fit for individuals, not groups. It’s more of an esoteric point and we don’t care much about that distinction for this class.</p>
+<p>For the more complex model, Angrist and Pischke use Equation 2.2 on page 61:</p>
+<p><span class="math display">\[
+\ln Y_i = \alpha + \beta P_i + \gamma A_i + \delta_1 \text{SAT}_i + \delta_2 \text{PI}_i + e_i
+\]</span></p>
+<p>The alpha, beta, and gamma terms are all the same as before (intercept, treatment coefficient, idenfication coefficient), but there are some new pieces:</p>
+<ul>
+<li><span class="math inline">\(\delta_1\)</span>, <span class="math inline">\(\delta_2\)</span>, etc. (“delta”): the coefficients for all other control variables</li>
+<li>SAT is for SAT scores</li>
+<li>PI is for parental income</li>
+</ul>
+<h3 id="all-betas">All <span class="math inline">\(\beta\)</span>s</h3>
+<p>My preferred method is to not distinguish between the different types of coefficients (i.e. beta vs. gamma vs. delta) and just call everything beta. Here’s what the two models look like when written this way:</p>
+<p><span class="math display">\[
+\begin{aligned}
+Y =&amp; \beta_0 + \beta_1 P + \beta_2 A + \epsilon \\
+\ln Y =&amp; \beta_0 + \beta_1 P + \beta_2 A + \beta_3 \text{SAT} + \beta_4 \text{PI} + \epsilon
+\end{aligned}
+\]</span></p>
+<p>You’ll sometimes see the intercept <span class="math inline">\(\beta_0\)</span> written as <span class="math inline">\(\alpha\)</span>, which is fine—just start with <span class="math inline">\(\beta_1\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+Y =&amp; \alpha + \beta_1 P + \beta_2 A + \epsilon \\
+\ln Y =&amp; \alpha + \beta_1 P + \beta_2 A + \beta_3 \text{SAT} + \beta_4 \text{PI} + \epsilon
+\end{aligned}
+\]</span></p>
+<h2 id="use-real-names">Use real names</h2>
+<p>If you’re not constrained with space, feel free to use actual words instead of things like <span class="math inline">\(P\)</span>, <span class="math inline">\(A\)</span>, or <span class="math inline">\(PI\)</span>:</p>
+<p><span class="math display">\[
+\begin{aligned}
+Y =&amp; \beta_0 + \beta_1 \text{Private} + \beta_2 \text{Group A} + \epsilon \\
+\ln Y =&amp; \beta_0 + \beta_1 \text{Private} + \beta_2 \text{Group A} + \\
+&amp; \beta_3 \text{SAT score} + \beta_4 \text{Parental income} + \epsilon
+\end{aligned}
+\]</span></p>
+<h2 id="clearest-and-muddiest-things">Clearest and muddiest things</h2>
+<p>Go to <a href="https://forms.gle/gDXoxmbQeps5suaJ6">this form</a> and answer these three questions:</p>
+<ol style="list-style-type: decimal">
+<li>What was the muddiest thing from class today? What are you still wondering about?</li>
+<li>What was the clearest thing from class today?</li>
+<li>What was the most exciting thing you learned?</li>
+</ol>
+<p>I’ll compile the questions and send out answers after class.</p>
+
+
+    </article>
+
+    <footer>
+        <hr class="slender">
+
+        <div class="course-info">
+        <span class="course-name">
+            PSPA 611: Public Revenue Analysis &amp; Financial Management (Spring 2020)
+        </span><br>
+        <span>
+            <a href="https://www.niu.edu">Northern Illinois University</a> | 
+            <a href="https://spga.niu.edu/">School of Public &amp; Global Affairs</a>
+        </span>
+        </div>
+
+        <ul class="footer-links">
+            <li>
+            <a href="https://www.cgoodman.com"><i class="fas fa-user"></i> Dr. Christopher B. Goodman</a>
+            </li>
+
+            <li>
+            <a href="mailto:cgoodman@niu.edu"><i class="fas fa-envelope"></i> cgoodman@niu.edu</a>
+            </li>
+
+            <li>
+            <i class="far fa-calendar-alt"></i> Mondays
+            </li>
+
+            <li>
+            <i class="far fa-clock"></i> 5:00–10:00 PM
+            </li>
+
+            <li>
+            <i class="fas fa-university"></i> Swen Parson Hall 150
+            </li>
+
+            <li>
+            <a href="https://twitter.com/cbgoodman"><i class="fab fa-twitter"></i></a>
+            </li>
+
+            <li>
+            <a href="https://github.com/cbgoodman/pspa611"><i class="fab fa-github"></i></a>
+            </li>
+        </ul>
+
+        <div class="credits">
+        <span class="credit">All content licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</span><br>
+
+        <span class="credit">Content <i class="fab fa-creative-commons"></i> 2020 <a href="https://www.cgoodman.com">Christopher Goodman</a></span><br>
+        <span class="credit">Hex icon by Andrew Heiss. Color scheme adapted from <a href="http://www.colourlovers.com/palette/582235/October_Roads">October Roads</a>.</span><br>
+
+        <span class="credit">This site created with the <a href="https://github.com/andrewheiss/ath-tufte-hugo_18-19">ath-tufte-hugo theme</a> in <a href="https://bookdown.org/yihui/blogdown/">blogdown</a> and <a href="https://gohugo.io/">Hugo</a>.</span>
+        </div>
+    </footer>
+
+    
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      },
+      "HTML-CSS": {
+        fonts: ["Asana-Math"]
+      }
+    });
+    </script>
+    <script async type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_HTMLorMML">
+    </script>
+
+
+</div>
+</body>
+</html>
+
