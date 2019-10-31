@@ -1,0 +1,67 @@
+lessons:
+  - title: '<span class="fake-header-table">Public Finance</span>'
+    header: True
+
+  - title: "Introduction to Public Finance"
+    date: "March 2"
+    reading: "01-reading"
+    class: "01-class"
+
+  - title: "_Spring Break_"
+    date: "March 9"
+
+  - title: "Income & Consumption Taxation"
+    date: "March 16"
+    reading: "02-reading"
+    class: "02-class"
+
+  - title: '<i class="fas fa-star"></i> **Memo 1**'
+    date: "March 20"
+    assignment: "01-assignment"
+
+  - title: "Property Taxes & User Fees"
+    date: "March 23"
+    reading: "03-reading"
+    class: "03-class"
+
+  - title: '<span class="fake-header-table">Financial Management</span>'
+    header: True
+
+  - title: "Financial Accounting I"
+    date: "March 30"
+    reading: "04-reading"
+    class: "04-class"
+
+  - title: '<i class="fas fa-star"></i> **Memo 2**'
+    date: "April 3"
+    assignment: "02-assignment"
+
+  - title: "Financial Accounting II"
+    date: "April 6"
+    reading: "05-reading"
+    class: "05-class"
+
+  - title: "Financial Accounting III"
+    date: "April 13"
+    reading: "06-reading"
+    class: "06-class"
+
+  - title: '<i class="fas fa-star"></i> **Memo 3**'
+    date: "April 17"
+    assignment: "03-assignment"
+
+  - title: "Procurement"
+    date: "April 20"
+    reading: "07-reading"
+    class: "07-class"
+
+  - title: "Presentations"
+    date: "April 27"
+    assignment: "presentation"
+
+  - title: '<span class="fake-header-table">Final</span>'
+    header: True
+
+  - title: "**Final project due** (submit online by 11:59 PM)"
+    date: "April 27"
+    assignment: "final-project"
