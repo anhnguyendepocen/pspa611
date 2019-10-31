@@ -6,7 +6,7 @@ publishdir: "docs"
 builddrafts: false
 buildFuture: true
 pygmentsuseclasses: true
-baseurl: "https://www.cgoodman.com/pspa611"
+baseurl: "https://www.cgoodman.com/pspa611/"
 title: Public Revenue Analysis & Financial Management
 theme: "ath-tufte-hugo_archivo"
 permalinks:
