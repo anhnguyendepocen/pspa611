@@ -5,10 +5,19 @@
     <link>https://pspa611.cgoodman.com/reading/</link>
     <description>Recent content in Readings on Public Revenue Analysis &amp; Financial Management</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pspa611.cgoodman.com/reading/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Financial Accounting I</title>
+      <link>https://pspa611.cgoodman.com/reading/04-reading/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pspa611.cgoodman.com/reading/04-reading/</guid>
+      <description>Required   Chapter 1 in Financial Strategy for Public ManagersSharon Kioko and Justin Marlow, Financial Strategy for Public Managers. (2013). https://press.rebus.community/financialstrategy/</description>
+    </item>
     
     <item>
       <title>Property Taxes &amp; User Fees</title>
@@ -142,17 +151,6 @@
       <guid>https://pspa611.cgoodman.com/reading/05-reading/</guid>
       <description> Required  Review the readings from last week  “Potential outcomes causal model” in Causal Inference: The MixtapeScott Cunningham, Causal Inference: The Mixtape, 2018, https://www.scunning.com/mixtape.html.
   </description>
-    </item>
-    
-    <item>
-      <title>Counterfactuals and DAGs I</title>
-      <link>https://pspa611.cgoodman.com/reading/04-reading/</link>
-      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/reading/04-reading/</guid>
-      <description>Required   Chapter 3 in Impact Evaluation in PracticePaul J. Gertler et al., Impact Evaluation in Practice, 2nd ed. (Inter-American Development Bank; World Bank, 2016), https://openknowledge.worldbank.org/handle/10986/25030.
-  “Directed acyclical graphs” in Causal Inference: The MixtapeScott Cunningham, Causal Inference: The Mixtape, 2018, https://www.scunning.com/mixtape.html.
-  Julia M. Rohrer, “Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data”Julia M. Rohrer, “Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data,” Advances in Methods and Practices in Psychological Science 1, no.</description>
     </item>
     
   </channel>
