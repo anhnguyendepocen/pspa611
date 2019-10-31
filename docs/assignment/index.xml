@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assignments on Public Revenue Analysis &amp; Financial Management</title>
-    <link>/pspa611/assignment/</link>
+    <link>https://www.cgoodman.com/pspa611/assignment/</link>
     <description>Recent content in Assignments on Public Revenue Analysis &amp; Financial Management</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/pspa611/assignment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.cgoodman.com/pspa611/assignment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Final Project</title>
-      <link>/pspa611/assignment/final-project/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/final-project/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/final-project/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/final-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation</title>
-      <link>/pspa611/assignment/presentation/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/presentation/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/presentation/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code-through</title>
-      <link>/pspa611/assignment/code-through/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/code-through/</link>
       <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/code-through/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/code-through/</guid>
       <description>The objectives of this class include “Become curious and confident in consuming and producing evaluations,” “Run statistical models,” and “Share your analyses and data with the public.” To help you with this, you will write a code-through tutorial of some statistical, causal, program evaluation-focused, or data-based principle or example.
 One of the reasons R is so popular is because the R community is exceptionally generous and open and sharing.So are Python and other modern open source languages too.</description>
     </item>
     
     <item>
       <title>Problem set 10</title>
-      <link>/pspa611/assignment/10-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/10-problem-set/</link>
       <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/10-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/10-problem-set/</guid>
       <description>The instructions for this problem set will be posted one week before it is due.</description>
     </item>
     
     <item>
       <title>Problem set 9</title>
-      <link>/pspa611/assignment/09-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/09-problem-set/</link>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/09-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/09-problem-set/</guid>
       <description>The instructions for this problem set will be posted one week before it is due.</description>
     </item>
     
     <item>
       <title>Problem set 8</title>
-      <link>/pspa611/assignment/08-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/08-problem-set/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/08-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/08-problem-set/</guid>
       <description>The instructions for this problem set will be posted one week before it is due.</description>
     </item>
     
     <item>
       <title>Problem set 7</title>
-      <link>/pspa611/assignment/07-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/07-problem-set/</link>
       <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/07-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/07-problem-set/</guid>
       <description>Instructions If you’re using R on your own computer (follow these instructions if you haven’t already), download this file, unzip it, and double click on the file named problem-set-7.Rproj:  problem-set-7.zip. You’ll need to make sure you have the tidyverse package installed on your computer. If you try to load it with library(tidyverse) and R gives an error that the package is missing, use the “Packages” panel in RStudio to install it.</description>
     </item>
     
     <item>
       <title>Problem set 6</title>
-      <link>/pspa611/assignment/06-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/06-problem-set/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/06-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/06-problem-set/</guid>
       <description>Cancelled!</description>
     </item>
     
     <item>
       <title>Problem set 5</title>
-      <link>/pspa611/assignment/05-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/05-problem-set/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/05-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/05-problem-set/</guid>
       <description>Instructions Open the project named “Problem Set 5” on RStudio.cloud. This link should take you to the project—if it doesn’t, log in and look for the project named “Problem Set 5.”
  Alternatively (and preferably now), if you’re using R on your own computer, download this file, unzip it, and double click on the file named problem-set-5.Rproj:  problem-set-5.zip. You’ll need to make sure you have these packages installed on your computer: tidyverse, ggdag.</description>
     </item>
     
     <item>
       <title>Problem set 4</title>
-      <link>/pspa611/assignment/04-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/04-problem-set/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/04-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/04-problem-set/</guid>
       <description>Instructions This problem set is more theoretical and abstract than previous assignments. You’ll practice figuring out ways of meausring outcomes and drawing causal diagrams.
 If you don’t want to type all your text in RStudio (understandable, since there’s not a nice spell checker), you can type everything in Word and then copy/paste it into your R Markdown document.
 Open the project named “Problem Set 4” on RStudio.cloud. This link should take you to the project—if it doesn’t, log in and look for the project named “Problem Set 4.</description>
@@ -106,30 +106,30 @@ Open the project named “Problem Set 4” on RStudio.cloud. This link should ta
     
     <item>
       <title>Problem set 3</title>
-      <link>/pspa611/assignment/03-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/03-problem-set/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/03-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/03-problem-set/</guid>
       <description>Like last week, I’ve provided a complete example of an analysis similar to what you’ll do in the problem set. It’s not identical—you’ll need to make some of your own graphs and rely on code from previous problem sets for that. Open and knit public-private-example.Rmd (or run it interactively from RStudio) to follow along.
 Remember that you can run an entire chunk by clicking on the green play arrow in the top right corner of the chunk.</description>
     </item>
     
     <item>
       <title>Problem set 2</title>
-      <link>/pspa611/assignment/02-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/02-problem-set/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/02-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/02-problem-set/</guid>
       <description>IMPORTANT: Again, this looks like a lot of work, but it’s mostly copying/pasting chunks of code and changing things.
 I’ve also provided a complete example of what the problem set will look like at the end (but with a different dataset) in the file named complete_sat_example.Rmd in the RStudio project. Open this and knit it so you can see all the code and output that you’ll get, and follow along with the code to see what it’s doing.</description>
     </item>
     
     <item>
       <title>Problem set 1</title>
-      <link>/pspa611/assignment/01-problem-set/</link>
+      <link>https://www.cgoodman.com/pspa611/assignment/01-problem-set/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pspa611/assignment/01-problem-set/</guid>
+      <guid>https://www.cgoodman.com/pspa611/assignment/01-problem-set/</guid>
       <description>IMPORTANT: This looks like a lot of work, but I’ve provided the majority of the code. Most of the time you’ll just be running or modifying pre-written code chunks that are already there. Remember that you can run an entire chunk by clicking on the green play arrow in the top right corner of the chunk. You can also run lines of code line-by-line if you place your cursor on some R code and press “⌘ + enter” (for macOS users) or “ctrl + enter” (for Windows users).</description>
     </item>
     
