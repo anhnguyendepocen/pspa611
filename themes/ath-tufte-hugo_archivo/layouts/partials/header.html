@@ -4,11 +4,12 @@
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
     {{ partial "meta.html" . }}
-    {{- if eq .Permalink "/" }}
+    {{- if eq .RelPermalink "/" }}
     <title>{{ .Site.Params.course.number }}: {{ .Site.Title }}</title>
     {{- else }}
     <title>{{ .Title }} | {{ .Site.Params.course.number }}: {{ .Site.Title }}</title>
     {{- end }}
+    <base href="{{ .Site.BaseURL }}">
     <link rel="canonical" href="{{ .Permalink }}">
     {{ partial "head_includes.html" . }}
 </head>

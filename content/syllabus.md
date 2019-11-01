@@ -97,7 +97,7 @@ If you need an accommodation for this class, please contact the Disability Resou
 Also, please contact me privately as soon as possible so we can discuss your accommodations. Please note that you will not be required to disclose your disability, only your accommodations. The sooner you let me know your needs, the sooner I can assist you in achieving your learning goals in this course.
 
 ## Assignments and grades
-<p><span class="newthought">You can find descriptions</span> for all the assignments on the <a href="/assignments/">assignments page</a>.</p>
+<p><span class="newthought">You can find descriptions</span> for all the assignments on the <a href="assignments/">assignments page</a>.</p>
 <table style="width:65%;">
 <colgroup>
 <col width="38%" />
