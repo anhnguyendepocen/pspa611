@@ -2,7 +2,7 @@
 MetaDataFormat: "yaml"
 publishdir: "docs"
 pygmentsuseclasses: true
-baseURL: "https://www.cgoodman.com/pspa611/"
+baseURL: "https://pspa611.cgoodman.com/"
 title: Public Revenue Analysis & Financial Management
 theme: "ath-tufte-hugo_archivo"
 permalinks:
