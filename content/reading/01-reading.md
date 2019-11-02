@@ -1,9 +1,6 @@
 ---
 title: "Introduction to Public Finance"
-date: "2020-03-02"
-citeproc: false
-bibliography: ../../static/bib/references.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+date: "2020-03-18"
 ---
 
 

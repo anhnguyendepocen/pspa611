@@ -1,9 +1,6 @@
 ---
 title: "Property Taxes & User Fees"
-date: "2020-03-23"
-citeproc: false
-bibliography: ../../static/bib/references.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+date: "2020-04-01"
 ---
 
 ## Required
@@ -25,7 +22,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 ## Recommended
 <ul>
-<li><i class="far fa-file-pdf"></i> Michael Chirico, Robert Inman, Charles Loeffler, John MacDonald, and Holger Sieg, "Deterring Property Tax Delinquency in Philadelphia: An Experimental Evaluation of Nudge Strategies"<span><label for="sn-2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-2" class="margin-toggle"/><span class="sidenote">Michael Chirico, Robert Inman, Charles Loeffler, John MacDonald, and Holger Sieg, "Deterring Property Tax Delinquency in Philadelphia: An Experimental Evaluation of Nudge Strategies," <em>National Tax Journal</em> 72, no. 3. (September 2019): 479-506,  doi: <a href="dx.doi.org/10.17310/ntj.2019.3.01">10.17310/ntj.2019.3.01</a>.<br />
+<li><i class="far fa-file-pdf"></i> Michael Chirico, Robert Inman, Charles Loeffler, John MacDonald, and Holger Sieg, "Deterring Property Tax Delinquency in Philadelphia: An Experimental Evaluation of Nudge Strategies"<span><label for="sn-2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-2" class="margin-toggle"/><span class="sidenote">Michael Chirico, Robert Inman, Charles Loeffler, John MacDonald, and Holger Sieg, "Deterring Property Tax Delinquency in Philadelphia: An Experimental Evaluation of Nudge Strategies," <em>National Tax Journal</em> 72, no. 3. (September 2019): 479-506,  doi: <a href="https://dx.doi.org/10.17310/ntj.2019.3.01">10.17310/ntj.2019.3.01</a>.<br />
 <br />
 </span></span> This will be posted on Blackboard.</li>
 </ul>

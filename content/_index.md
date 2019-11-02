@@ -10,5 +10,5 @@ author: "Chris Goodman"
 </span></span> <span class="newthought">This site contains</span> the syllabus, schedule, and assignments for PSPA 611: Public Revenue Analysis & Financial Management, held during the second 8 week term of Spring 2020 at the School of Public and Global Affairs at Northern Illinois University.</p>
 
 <figure>
-<a href="/images/eval-flowchart.png"><img src="/images/eval-flowchart.png" /></a>
+<a href="/images/il-cog-17.png"><img src="/images/il-cog-17.png" /></a>
 </figure>

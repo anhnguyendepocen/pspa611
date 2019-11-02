@@ -1,9 +1,6 @@
 ---
 title: "Income and Consumption Taxation"
-date: "2020-03-16"
-citeproc: false
-bibliography: ../../static/bib/references.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+date: "2020-03-25"
 ---
 
 ## Required

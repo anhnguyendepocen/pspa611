@@ -1,6 +1,6 @@
 ---
-title: "Introduction to Public Finance"
-date: "2020-03-18"
+title: "Procurement"
+date: "2020-04-29"
 ---
 
 ## Contents
@@ -8,9 +8,9 @@ date: "2020-03-18"
 * [Clearest and muddiest things](#clearest-and-muddiest-things)
 
 ## Slides
-[Download the slides from today’s class](slides/pspa611-class-1.pdf)
+[Download the slides from today’s class](/slides/PMAP-8521_2019-08-26.pdf)
 
-[![First slide](images/slides/pspa611-class-1.png)](slides/pspa611-class-1.pdf)
+[![First slide](/images/slides/slides_2019-08-26.png)](/slides/PMAP-8521_2019-08-26.pdf)
 
 ## Clearest and muddiest things
 Go to [this form](https://forms.gle/VQX2fe8FA8e2Pq1h7) and answer these three questions:

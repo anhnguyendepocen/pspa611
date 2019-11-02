@@ -5,7 +5,7 @@ slug: assignments
 
 ## Preparation
 
-<p>You will get the most out of this class</span> if you (1) attend class, (2) complete all the readings, and (3) engage<span><label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">Take detailed notes, work through the example code and try to understand it, have vivid dreams about statistics, etc.<br />
+<p>You will get the most out of this class</span> if you (1) attend class, (2) complete all the readings, and (3) engage<span><label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">Take detailed notes, have vivid dreams about the property tax assessment, etc.<br />
 <br />
 </span> with the readings.<span><label for="sn-2" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-2" class="margin-toggle"/><span class="sidenote">Also (4) ask for help!<br />
 <br />
@@ -54,7 +54,7 @@ In consultation with your instructor, choose a unit of local government in Illin
 
 Your paper will be graded on its general structure, exposition, grammar, and cohesiveness, as well as its fulfillment of the assignment according to the rubric in this syllabus. Be sure to support your analysis with reasoning and evidence. _Be sure to acknowledge your sources in the text and in your bibliography (this includes municipal documents, websites, etc.)_. Academic dishonesty, including incomplete or inappropriate citation of sources will not be tolerated and will be grounds for penalties up to and including failure of the course or expulsion from the program or the university. It is each student's responsibility to familiarize themselves with department, college, and university policies regarding academic dishonesty, as all such policies apply to this course.
 
-p>Your paper should be neatly typed (double-spaced) and a maximum of 22 (twenty-two) pages in length not including bibliography, endnotes, or tables.</em><span><label for="sn-4" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-4" class="margin-toggle"/><span class="sidenote">If you feel you can cover all the topics and make your case in fewer pages, do so. There is no need to unnecessarily fill pages.<br />
+<p>Your paper should be neatly typed (double-spaced) and a maximum of 22 (twenty-two) pages in length not including bibliography, endnotes, or tables.</em><span><label for="sn-4" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-4" class="margin-toggle"/><span class="sidenote">If you feel you can cover all the topics and make your case in fewer pages, do so. There is no need to unnecessarily fill pages.<br />
 <br />
 </span></span> If you have questions or problems, contact me for assistance at any time.
 
@@ -62,4 +62,4 @@ p>Your paper should be neatly typed (double-spaced) and a maximum of 22 (twenty-
 
 <p>Each student will conduct a brief presentation (roughly 8-12 minutes) of their revenue analysis.</em><span><label for="sn-5" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-5" class="margin-toggle"/><span class="sidenote">Hence the need for unique local governments<br />
 <br />
-</span></span> More guidance about the format/content of the presentation will be distributed after the midterm.
+</span></span> More guidance about the format/content of the presentation will be distributed after the beginning of the course.

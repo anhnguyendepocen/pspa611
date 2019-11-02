@@ -24,10 +24,10 @@ menu:
       url: /reference/
       weight: 4
 params:
-  author: Christopher Goodman
+  author: Chris Goodman
   thumbnail: /images/eval_meta.png
   instructor:
-    name: Dr. Christopher B. Goodman
+    name: Dr. Chris Goodman
     email: cgoodman@niu.edu
     url: "https://www.cgoodman.com"
     twitter: cbgoodman
@@ -36,13 +36,13 @@ params:
   course:
     number: "PSPA 611"
     semester: "Spring 2020"
-    days: "Mondays"
+    days: "Wednesdays"
     time: "5:00–10:00 PM"
-    location: "Swen Parson Hall 150"
+    location: "NIU-Hoffman Estates"
     twitter: cbgoodman
-    dates: "March 1–May 8, 2020"
+    dates: "March 16–May 8, 2020"
     github: "cbgoodman/pspa611"
-    slack: "https://pmap8521fall2019.slack.com/"
+    #slack: "https://pmap8521fall2019.slack.com/"
     copyrightYear: "2020"
     contactDetails: >-
       Office hours: [Sign up here.](https://calendly.com/cbgoodman/office-hours)<br><br><small>E-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond to your e-mail right away, don't worry!</small>
@@ -53,15 +53,13 @@ params:
     name: School of Public & Global Affairs
     url: "https://spga.niu.edu/"
   description: "Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management."
-  primaryColor: "#D46600"
-  secondaryColor: "#F6E03F"
-  credits: >-
-    Hex icon by Andrew Heiss. Color scheme adapted from [October Roads](http://www.colourlovers.com/palette/582235/October_Roads).
+  primaryColor: "#C8102E"
+  secondaryColor: "#A5A7A8"
+  credits:
   logo:
     url:
     alt:
   meta:
-    twitterSite: "@andrewheiss"
-    twitterCreator: "@andrewheiss"
-    fbAuthor: "https://www.facebook.com/andrewheiss"
+    twitterSite: "@cbgoodman"
+    twitterCreator: "@cbgoodman"
 ---
