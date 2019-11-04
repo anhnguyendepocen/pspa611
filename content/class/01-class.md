@@ -4,8 +4,8 @@ date: "2020-03-18"
 ---
 
 ## Contents
-* [Slides](#slides)
-* [Clearest and muddiest things](#clearest-and-muddiest-things)
+* [Slides]({{< relref "01-class.md#slides" >}})
+* [Clearest and muddiest things]({{< relref "01-class.md#clearest-and-muddiest-things" >}})
 
 ## Slides
 [Download the slides from today’s class](slides/pspa611-class-1.pdf)
