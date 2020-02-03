@@ -941,108 +941,62 @@ If a graduate student fails to maintain the standards of academic or professiona
 &lt;div id=&#34;assignments-and-grades&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Assignments and grades&lt;/h2&gt;
 &lt;p&gt;You can find descriptions for all the assignments on the &lt;a href=&#34;https://pspa611.cgoodman.com/assignment&#34;&gt;assignments page&lt;/a&gt;.&lt;/p&gt;
-&lt;table style=&#34;width:65%;&#34;&gt;
+&lt;div class=&#34;centered-table&#34;&gt;
+&lt;table style=&#34;width:61%;&#34;&gt;
 &lt;colgroup&gt;
-&lt;col width=&#34;38%&#34; /&gt;
+&lt;col width=&#34;34%&#34; /&gt;
 &lt;col width=&#34;12%&#34; /&gt;
 &lt;col width=&#34;13%&#34; /&gt;
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;left&#34;&gt;
-Assignment
-&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;
-Points
-&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;
-Percent
-&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Assignment&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Points&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Percent&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Preparation (≈ 15 × 7)
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-105
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-16%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Preparation (≈ 15 × 7)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;105&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;16%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Memo 1
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-100
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-15.3%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Memo 1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;100&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;15%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Memo 2
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-100
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-15.3%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Memo 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;100&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;15%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Memo 3
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-100
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-15.3%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Memo 3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;100&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;15%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Revenue Analysis
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-200
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-30.5%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Presentation&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;50&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Presentation
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-50
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-7.5%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Revenue analysis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;200&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;31%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-Total
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-655
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-—
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Total&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;655&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;—&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;
-&lt;br /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;centered-table&#34;&gt;
+
+
 &lt;table style=&#34;width:49%;&#34;&gt;
 &lt;colgroup&gt;
 &lt;col width=&#34;11%&#34; /&gt;
@@ -1052,93 +1006,48 @@ Total
 &lt;/colgroup&gt;
 &lt;thead&gt;
 &lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;left&#34;&gt;
-Grade
-&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;
-Range
-&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;
-Grade
-&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;
-Range
-&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Grade&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Range&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Grade&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Range&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-A
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-94–100%
-&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;
-C+
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-77–79%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;94–100%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;C+&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;77–79%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-A−
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-90–93%
-&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;
-C
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-73–78%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A−&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;90–93%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;C&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;73–76%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-B+
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-87–89%
-&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;
-C−
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-70–72%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;B+&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;87–89%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;C−&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;70–72%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-B
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-83–86%
-&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;
-D
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-60-69%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;B&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;83–86%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;D&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;63–66%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;
-B−
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-80–82%
-&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;
-F
-&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;
-0-59%
-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;B−&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;80–82%&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;F&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&amp;lt; 60%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;div&gt;
+
+
 &lt;/div&gt;
 &lt;div id=&#34;star-wars&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Star Wars&lt;/h2&gt;
