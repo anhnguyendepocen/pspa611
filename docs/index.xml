@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course materials | Public Revenue Analysis &amp; Financial Management</title>
-    <link>https://611.cgoodman.com/</link>
-      <atom:link href="https://611.cgoodman.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Course materials</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>https://611.cgoodman.com/img/social-image.png</url>
+      <url>/img/social-image.png</url>
       <title>Course materials</title>
-      <link>https://611.cgoodman.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Presentation</title>
-      <link>https://611.cgoodman.com/assignment/presentation/</link>
+      <link>/assignment/presentation/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/assignment/presentation/</guid>
+      <guid>/assignment/presentation/</guid>
       <description>
 
 
@@ -26,9 +26,9 @@
     
     <item>
       <title>Memo 1</title>
-      <link>https://611.cgoodman.com/assignment/01-memo/</link>
+      <link>/assignment/01-memo/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/assignment/01-memo/</guid>
+      <guid>/assignment/01-memo/</guid>
       <description>
 
 
@@ -38,9 +38,9 @@
     
     <item>
       <title>Introduction to Public Finance</title>
-      <link>https://611.cgoodman.com/class/01-class/</link>
+      <link>/class/01-class/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/01-class/</guid>
+      <guid>/class/01-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -53,9 +53,9 @@
 &lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Slides&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://611.cgoodman.com/slides/pspa611-class-1.pdf&#34;&gt;Download the slides from today’s class&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/slides/pspa611-class-1.pdf&#34;&gt;Download the slides from today’s class&lt;/a&gt;.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;a href=&#34;https://611.cgoodman.com/slides/pspa611-class-1.pdf&#34;&gt;&lt;img src=&#34;https://611.cgoodman.com/slides/pspa611-class-1.png&#34; alt=&#34;First slide&#34; /&gt;&lt;/a&gt;
+    &lt;a href=&#34;/slides/pspa611-class-1.pdf&#34;&gt;&lt;img src=&#34;/slides/pspa611-class-1.png&#34; alt=&#34;First slide&#34; /&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
 
@@ -76,9 +76,9 @@
     
     <item>
       <title>Professional and Data Resources</title>
-      <link>https://611.cgoodman.com/reference/prof-orgs/</link>
+      <link>/reference/prof-orgs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reference/prof-orgs/</guid>
+      <guid>/reference/prof-orgs/</guid>
       <description>
 
 
@@ -94,9 +94,9 @@
     
     <item>
       <title>Revenue analysis</title>
-      <link>https://611.cgoodman.com/assignment/revenue-analysis/</link>
+      <link>/assignment/revenue-analysis/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/assignment/revenue-analysis/</guid>
+      <guid>/assignment/revenue-analysis/</guid>
       <description>
 
 
@@ -127,9 +127,9 @@
     
     <item>
       <title>Memo 2</title>
-      <link>https://611.cgoodman.com/assignment/02-memo/</link>
+      <link>/assignment/02-memo/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/assignment/02-memo/</guid>
+      <guid>/assignment/02-memo/</guid>
       <description>
 
 
@@ -139,9 +139,9 @@
     
     <item>
       <title>Income and Consumption Taxation</title>
-      <link>https://611.cgoodman.com/class/02-class/</link>
+      <link>/class/02-class/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/02-class/</guid>
+      <guid>/class/02-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -174,9 +174,9 @@
     
     <item>
       <title>Memo 3</title>
-      <link>https://611.cgoodman.com/assignment/03-memo/</link>
+      <link>/assignment/03-memo/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/assignment/03-memo/</guid>
+      <guid>/assignment/03-memo/</guid>
       <description>
 
 
@@ -186,9 +186,9 @@
     
     <item>
       <title>Property Taxes &amp; User Fees</title>
-      <link>https://611.cgoodman.com/class/03-class/</link>
+      <link>/class/03-class/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/03-class/</guid>
+      <guid>/class/03-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -221,9 +221,9 @@
     
     <item>
       <title>Financial Accounting I</title>
-      <link>https://611.cgoodman.com/class/04-class/</link>
+      <link>/class/04-class/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/04-class/</guid>
+      <guid>/class/04-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -256,9 +256,9 @@
     
     <item>
       <title>Financial Accounting II</title>
-      <link>https://611.cgoodman.com/class/05-class/</link>
+      <link>/class/05-class/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/05-class/</guid>
+      <guid>/class/05-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -291,9 +291,9 @@
     
     <item>
       <title>Financial Accounting III</title>
-      <link>https://611.cgoodman.com/class/06-class/</link>
+      <link>/class/06-class/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/06-class/</guid>
+      <guid>/class/06-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -326,9 +326,9 @@
     
     <item>
       <title>Procurement</title>
-      <link>https://611.cgoodman.com/class/07-class/</link>
+      <link>/class/07-class/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/class/07-class/</guid>
+      <guid>/class/07-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -361,9 +361,9 @@
     
     <item>
       <title>Procurement</title>
-      <link>https://611.cgoodman.com/reading/07-reading/</link>
+      <link>/reading/07-reading/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/07-reading/</guid>
+      <guid>/reading/07-reading/</guid>
       <description>
 
 
@@ -392,9 +392,9 @@
     
     <item>
       <title>Financial Accounting III</title>
-      <link>https://611.cgoodman.com/reading/06-reading/</link>
+      <link>/reading/06-reading/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/06-reading/</guid>
+      <guid>/reading/06-reading/</guid>
       <description>
 
 
@@ -415,9 +415,9 @@
     
     <item>
       <title>Financial Accounting II</title>
-      <link>https://611.cgoodman.com/reading/05-reading/</link>
+      <link>/reading/05-reading/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/05-reading/</guid>
+      <guid>/reading/05-reading/</guid>
       <description>
 
 
@@ -440,9 +440,9 @@
     
     <item>
       <title>Financial Accounting I</title>
-      <link>https://611.cgoodman.com/reading/04-reading/</link>
+      <link>/reading/04-reading/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/04-reading/</guid>
+      <guid>/reading/04-reading/</guid>
       <description>
 
 
@@ -467,9 +467,9 @@
     
     <item>
       <title>Property Taxes &amp; User Fees</title>
-      <link>https://611.cgoodman.com/reading/03-reading/</link>
+      <link>/reading/03-reading/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/03-reading/</guid>
+      <guid>/reading/03-reading/</guid>
       <description>
 
 
@@ -505,9 +505,9 @@
     
     <item>
       <title>Income and Consumption Taxation</title>
-      <link>https://611.cgoodman.com/reading/02-reading/</link>
+      <link>/reading/02-reading/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/02-reading/</guid>
+      <guid>/reading/02-reading/</guid>
       <description>
 
 
@@ -517,7 +517,7 @@
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Chapter 4 in &lt;em&gt;A Budgeting Guide for Local Government&lt;/em&gt;&lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Chapters 15, 16, and 17 in &lt;em&gt;State &amp;amp; Local Public Finance&lt;/em&gt;&lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www.irs.gov/pub/irs-pdf/p17.pdf&#34;&gt;Publication 17 (2018), Your Federal Income Tax&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; Center for Tax and Budget Accountability, “&lt;a href=&#34;https://611.cgoodman.com/files/ctba-graduated-income.pdf&#34;&gt;How a graduated rate income tax would help reduce after-tax income inequality in Illinois&lt;/a&gt;.” (May 22, 2019).&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; Center for Tax and Budget Accountability, “&lt;a href=&#34;/files/ctba-graduated-income.pdf&#34;&gt;How a graduated rate income tax would help reduce after-tax income inequality in Illinois&lt;/a&gt;.” (May 22, 2019).&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; Pew Charitable Trusts, “&lt;a href=&#34;https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2019/08/forecasts-hazy-for-state-marijuana-revenue&#34;&gt;Forecasts Hazy for State Marijuana Revenue&lt;/a&gt;.” (August 19, 2019).&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://www2.illinois.gov/rev/research/taxinformation/sales/Pages/rot.aspx&#34;&gt;IL Sales &amp;amp; Use Taxes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -534,21 +534,21 @@
     
     <item>
       <title>Introduction to Public Finance</title>
-      <link>https://611.cgoodman.com/reading/01-reading/</link>
+      <link>/reading/01-reading/</link>
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/reading/01-reading/</guid>
+      <guid>/reading/01-reading/</guid>
       <description>
 
 
 &lt;div id=&#34;required&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Required&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;https://611.cgoodman.com/syllabus/&#34;&gt;syllabus&lt;/a&gt; and &lt;a href=&#34;https://611.cgoodman.com/assignment/&#34;&gt;assignments&lt;/a&gt; pages for this class&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;/syllabus/&#34;&gt;syllabus&lt;/a&gt; and &lt;a href=&#34;/assignment/&#34;&gt;assignments&lt;/a&gt; pages for this class&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Chapters 1 and 2 in &lt;em&gt;A Budgeting Guide for Local Government&lt;/em&gt;&lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Chapters 1, 2, and 12 in &lt;em&gt;State &amp;amp; Local Public Finance&lt;/em&gt;&lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; James M. Banovetz, &#34;&lt;em&gt;Illinois Municipal Review&lt;/em&gt; (December 2002).&lt;/li&gt;
-&lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; James M. Banovetz and Thomas W. Kelty, “&lt;a href=&#34;https://611.cgoodman.com/files/home-rule-and-taxes.pdf&#34;&gt;The Status of Illinois Home Rule, Part II: Home Rule and Taxes&lt;/a&gt;.” &lt;em&gt;Illinois Municipal Review&lt;/em&gt; (March 2003).&lt;/li&gt;
-&lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; James M. Banovetz and Thomas W. Kelty, “&lt;a href=&#34;https://611.cgoodman.com/files/do-home-rule-communities.pdf&#34;&gt;The Status of Illinois Home Rule, Part III: Do Home Rule Communities Levy More Property Taxes?&lt;/a&gt;” &lt;em&gt;Illinois Municipal Review&lt;/em&gt; (April 2003).&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; James M. Banovetz and Thomas W. Kelty, “&lt;a href=&#34;/files/home-rule-and-taxes.pdf&#34;&gt;The Status of Illinois Home Rule, Part II: Home Rule and Taxes&lt;/a&gt;.” &lt;em&gt;Illinois Municipal Review&lt;/em&gt; (March 2003).&lt;/li&gt;
+&lt;li&gt;&lt;i class=&#34;far fa-file-pdf&#34;&gt;&lt;/i&gt; James M. Banovetz and Thomas W. Kelty, “&lt;a href=&#34;/files/do-home-rule-communities.pdf&#34;&gt;The Status of Illinois Home Rule, Part III: Do Home Rule Communities Levy More Property Taxes?&lt;/a&gt;” &lt;em&gt;Illinois Municipal Review&lt;/em&gt; (April 2003).&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; Liz Farmer, “&lt;a href=&#34;https://www.governing.com/finance101/gov-deadly-public-finance-sins.html&#34;&gt;The 7 Deadly Sins of Public Finance&lt;/a&gt;” &lt;em&gt;Governing&lt;/em&gt;, June, 2014.&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-podcast&#34;&gt;&lt;/i&gt; NPR Planet Money, “&lt;a href=&#34;https://www.npr.org/2019/10/18/771371881/episode-945-the-liberty-city&#34;&gt;Episode 945: The Liberty City&lt;/a&gt;.” October 18, 2019.&lt;/li&gt;
 &lt;/ul&gt;
@@ -577,9 +577,9 @@
     
     <item>
       <title>Schedule</title>
-      <link>https://611.cgoodman.com/schedule/</link>
+      <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/schedule/</guid>
+      <guid>/schedule/</guid>
       <description>
 
 
@@ -604,26 +604,26 @@
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;March 18&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; &lt;strong&gt;Introduction to Public Finance&lt;/strong&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/01-reading/&#34;&gt;
+                    href=&#34;/reading/01-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/01-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/01-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;March 25&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; &lt;strong&gt;Income &amp;amp; Consumption Taxation&lt;/strong&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/02-reading/&#34;&gt;
+                    href=&#34;/reading/02-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/02-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/02-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -634,7 +634,7 @@
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/assignment/01-memo/&#34;&gt;
+                    href=&#34;/assignment/01-memo/&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
@@ -645,13 +645,13 @@
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;April 1&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; Property Taxes &amp;amp; User Fees&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/03-reading/&#34;&gt;
+                    href=&#34;/reading/03-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/03-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/03-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -666,13 +666,13 @@
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;April 8&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; Financial Accounting I&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/04-reading/&#34;&gt;
+                    href=&#34;/reading/04-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/04-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/04-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -683,7 +683,7 @@
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/assignment/02-memo/&#34;&gt;
+                    href=&#34;/assignment/02-memo/&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
@@ -694,26 +694,26 @@
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;April 15&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; Financial Accounting II&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/05-reading/&#34;&gt;
+                    href=&#34;/reading/05-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/05-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/05-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;April 22&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; Financial Accounting III&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/06-reading/&#34;&gt;
+                    href=&#34;/reading/06-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/06-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/06-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -724,7 +724,7 @@
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/assignment/03-memo/&#34;&gt;
+                    href=&#34;/assignment/03-memo/&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
@@ -735,13 +735,13 @@
             &lt;td align=&#34;right&#34; style=&#34;width:20%;text-align:right&#34;&gt;April 29&lt;/td&gt;
             &lt;td style=&#34;width:50%;text-align:left&#34;&gt;&lt;i class=&#34;fas fa-university&#34;&gt;&lt;/i&gt; Procurement&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/reading/07-reading/&#34;&gt;
+                    href=&#34;/reading/07-reading/&#34;&gt;
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
-            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;https://611.cgoodman.com/class/07-class/&#34;&gt;
+            &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a href=&#34;/class/07-class/&#34;&gt;
                     &lt;i class=&#34;fas fa-chalkboard-teacher fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
@@ -752,7 +752,7 @@
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/assignment/presentation/&#34;&gt;
+                    href=&#34;/assignment/presentation/&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
@@ -775,7 +775,7 @@
                     &lt;i class=&#34;fas fa-book-reader fa-lg&#34;&gt;&lt;/i&gt;&lt;/font&gt;
             &lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;&lt;a
-                    href=&#34;https://611.cgoodman.com/assignment/revenue-analysis/&#34;&gt;
+                    href=&#34;/assignment/revenue-analysis/&#34;&gt;
                     &lt;i class=&#34;fas fa-laptop-code&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
             &lt;td align=&#34;center&#34; style=&#34;width:10%;text-align:center&#34;&gt;
                 &lt;font color=&#34;f1f1f1&#34;&gt;
@@ -792,9 +792,9 @@
     
     <item>
       <title>Syllabus</title>
-      <link>https://611.cgoodman.com/syllabus/</link>
+      <link>/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://611.cgoodman.com/syllabus/</guid>
+      <guid>/syllabus/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -940,7 +940,7 @@ If a graduate student fails to maintain the standards of academic or professiona
 &lt;/div&gt;
 &lt;div id=&#34;assignments-and-grades&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Assignments and grades&lt;/h2&gt;
-&lt;p&gt;You can find descriptions for all the assignments on the &lt;a href=&#34;https://611.cgoodman.com/assignment&#34;&gt;assignments page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can find descriptions for all the assignments on the &lt;a href=&#34;/assignment&#34;&gt;assignments page&lt;/a&gt;.&lt;/p&gt;
 &lt;table style=&#34;width:65%;&#34;&gt;
 &lt;colgroup&gt;
 &lt;col width=&#34;38%&#34; /&gt;
@@ -1142,7 +1142,7 @@ F
 &lt;/div&gt;
 &lt;div id=&#34;star-wars&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Star Wars&lt;/h2&gt;
-&lt;p&gt;Once you have read this entire syllabus and &lt;a href=&#34;https://611.cgoodman.com/assignment/&#34;&gt;the assignments page&lt;/a&gt;, please &lt;a href=&#34;mailto:cgoodman@niu.edu&#34;&gt;click here&lt;/a&gt; and e-mail me a picture of a &lt;em&gt;cute&lt;/em&gt; Star Wars character.&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Brownie points if it’s animated.&lt;/p&gt;
+&lt;p&gt;Once you have read this entire syllabus and &lt;a href=&#34;/assignment/&#34;&gt;the assignments page&lt;/a&gt;, please &lt;a href=&#34;mailto:cgoodman@niu.edu&#34;&gt;click here&lt;/a&gt; and e-mail me a picture of a &lt;em&gt;cute&lt;/em&gt; Star Wars character.&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Brownie points if it’s animated.&lt;/p&gt;
 
 
 
