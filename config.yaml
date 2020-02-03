@@ -1,65 +1,71 @@
----
-MetaDataFormat: "yaml"
-publishdir: "docs"
-pygmentsuseclasses: true
-baseURL: "https://pspa611.cgoodman.com/"
-title: Public Revenue Analysis & Financial Management
-theme: "ath-tufte-hugo_archivo"
+baseurl: https://611.cgoodman.com/
+defaultContentLanguage: en
+title: "Public Revenue Analysis & Financial Management"
+theme: hugo-academic
+
+
+# ------------------
+# Building options
+# ------------------
 permalinks:
   post: "/:year/:month/:day/:slug/"
 buildFuture: True
-disableKinds: ["taxonomy", "taxonomyTerm"]
-menu:
-  main:
-    - name: Syllabus
-      url: /syllabus/
-      weight: 1
-    - name: Assignments
-      url: /assignments/
-      weight: 3
-    - name: Schedule
-      url: /schedule/
-      weight: 2
-    - name: Reference
-      url: /reference/
-      weight: 4
-params:
-  author: Chris Goodman
-  thumbnail: /images/eval_meta.png
-  instructor:
-    name: Dr. Chris Goodman
-    email: cgoodman@niu.edu
-    url: "https://www.cgoodman.com"
-    twitter: cbgoodman
-    github: cbgoodman
-    office: "212 IASBO"
-  course:
-    number: "PSPA 611"
-    semester: "Spring 2020"
-    days: "Wednesdays"
-    time: "5:00–10:00 PM"
-    location: "NIU-Hoffman Estates"
-    twitter: cbgoodman
-    dates: "March 16–May 8, 2020"
-    github: "cbgoodman/pspa611"
-    #slack: "https://pmap8521fall2019.slack.com/"
-    copyrightYear: "2020"
-    contactDetails: >-
-      Office hours: [Sign up here.](https://calendly.com/cbgoodman/office-hours)<br><br><small>E-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond to your e-mail right away, don't worry!</small>
-  university:
-    name: Northern Illinois University
-    url: "https://www.niu.edu"
-  school:
-    name: School of Public & Global Affairs
-    url: "https://spga.niu.edu/"
-  description: "Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management."
-  primaryColor: "#C8102E"
-  secondaryColor: "#A5A7A8"
-  credits:
-  logo:
-    url:
-    alt:
-  meta:
-    twitterSite: "@cbgoodman"
-    twitterCreator: "@cbgoodman"
----
+publishdir: "docs"
+
+# No taxonomy
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+
+
+copyright: ''
+enableGitInfo: true
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+paginate: 10
+enableEmoji: true
+footnotereturnlinkcontents: <sup>^</sup>
+
+
+# ----------------
+# Output options
+# ----------------
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+  section:
+    - HTML
+    - RSS
+mediaTypes:
+  application/manifest+json:
+    suffixes:
+      - webmanifest
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _files$
+  - _cache$

@@ -1,97 +1,263 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Classes on Public Revenue Analysis &amp; Financial Management</title>
-    <link>https://pspa611.cgoodman.com/class/</link>
-    <description>Recent content in Classes on Public Revenue Analysis &amp; Financial Management</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pspa611.cgoodman.com/class/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Class details | Public Revenue Analysis &amp; Financial Management</title>
+    <link>/class/</link>
+      <atom:link href="/class/index.xml" rel="self" type="application/rss+xml" />
+    <description>Class details</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/social-image.png</url>
+      <title>Class details</title>
+      <link>/class/</link>
+    </image>
     
     <item>
-      <title>Procurement</title>
-      <link>https://pspa611.cgoodman.com/class/07-class/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/07-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+      <title>Introduction to Public Finance</title>
+      <link>/class/01-class/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/class/01-class/</guid>
+      <description>
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/slides/pspa611-class-1.pdf&#34;&gt;Download the slides from today’s class&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;a href=&#34;/slides/pspa611-class-1.pdf&#34;&gt;&lt;img src=&#34;/slides/pspa611-class-1.png&#34; alt=&#34;First slide&#34; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Financial Accounting III</title>
-      <link>https://pspa611.cgoodman.com/class/06-class/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/06-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+      <title>Income and Consumption Taxation</title>
+      <link>/class/02-class/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/class/02-class/</guid>
+      <description>
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
-    </item>
-    
-    <item>
-      <title>Financial Management II</title>
-      <link>https://pspa611.cgoodman.com/class/05-class/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/05-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
-    </item>
-    
-    <item>
-      <title>Financial Accounting I</title>
-      <link>https://pspa611.cgoodman.com/class/04-class/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/04-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
+&lt;p&gt;The slides from today will be posted here after class.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
       <title>Property Taxes &amp; User Fees</title>
-      <link>https://pspa611.cgoodman.com/class/03-class/</link>
+      <link>/class/03-class/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/03-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+      <guid>/class/03-class/</guid>
+      <description>
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Slides&lt;/h3&gt;
+
+&lt;p&gt;The slides from today will be posted here after class.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Income &amp; Consumption Taxation</title>
-      <link>https://pspa611.cgoodman.com/class/02-class/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/02-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+      <title>Financial Accounting I</title>
+      <link>/class/04-class/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/class/04-class/</guid>
+      <description>
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;The slides from today will be posted here after class.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
-      <title>Introduction to Public Finance</title>
-      <link>https://pspa611.cgoodman.com/class/01-class/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pspa611.cgoodman.com/class/01-class/</guid>
-      <description>Contents  Slides Clearest and muddiest things  Slides Download the slides from today’s class
+      <title>Financial Accounting II</title>
+      <link>/class/05-class/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/class/05-class/</guid>
+      <description>
 
-Clearest and muddiest things Go to this form and answer these three questions:
- What was the muddiest thing from class today? What are you still wondering about? What was the clearest thing from class today? What was the most exciting thing you learned?  I’ll compile the questions and send out answers after class.</description>
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;The slides from today will be posted here after class.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Accounting III</title>
+      <link>/class/06-class/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/class/06-class/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;The slides from today will be posted here after class.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Procurement</title>
+      <link>/class/07-class/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/class/07-class/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#slides&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#clearest-and-muddiest-things&#34;&gt;Clearest and muddiest things&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;The slides from today will be posted here after class.&lt;/p&gt;
+
+
+&lt;/div&gt;
+&lt;div id=&#34;clearest-and-muddiest-things&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Clearest and muddiest things&lt;/h2&gt;
+    &lt;p&gt;Go to &lt;a href=&#34;https://forms.gle/VQX2fe8FA8e2Pq1h7&#34;&gt;this form&lt;/a&gt; and answer these three questions:&lt;/p&gt;
+    &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+        &lt;li&gt;What was the muddiest thing from class today? What are you still wondering about?&lt;/li&gt;
+        &lt;li&gt;What was the clearest thing from class today?&lt;/li&gt;
+        &lt;li&gt;What was the most exciting thing you learned?&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;I’ll compile the questions and send out answers after class.&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>
