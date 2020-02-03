@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assignment details | Public Revenue Analysis &amp; Financial Management</title>
-    <link>/assignment/</link>
-      <atom:link href="/assignment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://611.cgoodman.com/assignment/</link>
+      <atom:link href="https://611.cgoodman.com/assignment/index.xml" rel="self" type="application/rss+xml" />
     <description>Assignment details</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>/img/social-image.png</url>
+      <url>https://611.cgoodman.com/img/social-image.png</url>
       <title>Assignment details</title>
-      <link>/assignment/</link>
+      <link>https://611.cgoodman.com/assignment/</link>
     </image>
     
     <item>
       <title>Presentation</title>
-      <link>/assignment/presentation/</link>
+      <link>https://611.cgoodman.com/assignment/presentation/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/presentation/</guid>
+      <guid>https://611.cgoodman.com/assignment/presentation/</guid>
       <description>
 
 
@@ -26,9 +26,9 @@
     
     <item>
       <title>Memo 1</title>
-      <link>/assignment/01-memo/</link>
+      <link>https://611.cgoodman.com/assignment/01-memo/</link>
       <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/01-memo/</guid>
+      <guid>https://611.cgoodman.com/assignment/01-memo/</guid>
       <description>
 
 
@@ -38,9 +38,9 @@
     
     <item>
       <title>Revenue analysis</title>
-      <link>/assignment/revenue-analysis/</link>
+      <link>https://611.cgoodman.com/assignment/revenue-analysis/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/revenue-analysis/</guid>
+      <guid>https://611.cgoodman.com/assignment/revenue-analysis/</guid>
       <description>
 
 
@@ -71,9 +71,9 @@
     
     <item>
       <title>Memo 2</title>
-      <link>/assignment/02-memo/</link>
+      <link>https://611.cgoodman.com/assignment/02-memo/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/02-memo/</guid>
+      <guid>https://611.cgoodman.com/assignment/02-memo/</guid>
       <description>
 
 
@@ -83,9 +83,9 @@
     
     <item>
       <title>Memo 3</title>
-      <link>/assignment/03-memo/</link>
+      <link>https://611.cgoodman.com/assignment/03-memo/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/03-memo/</guid>
+      <guid>https://611.cgoodman.com/assignment/03-memo/</guid>
       <description>
 
 
